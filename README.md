@@ -318,5 +318,4 @@ This project provided valuable insights into the Data Analyst job market by expl
 Beyond the market insights, this project strengthened my SQL proficiency and demonstrated how data can be transformed into actionable information through querying, analysis, and visualization. It serves as both a reflection of current industry trends and a practical showcase of my data analytics skills.
 
 # Test Image
-
-![Test](assets/1_top_paying_jobs.png)
+![Test](https://github.com/TiyasaPaul02/SQL_PROJECT_Data_Job_Analysis/blob/main/assets/1_top_paying_jobs.png?raw=true)
