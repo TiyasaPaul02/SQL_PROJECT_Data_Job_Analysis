@@ -316,3 +316,7 @@ This project strengthened both my technical SQL skills and my ability to approac
 This project provided valuable insights into the Data Analyst job market by exploring salary trends, in-demand skills, and the relationship between skill demand and earning potential. The analysis revealed that while foundational skills like SQL, Excel, and Python remain highly sought after, specialized technologies in data engineering, cloud computing, and machine learning often command higher salaries.
 
 Beyond the market insights, this project strengthened my SQL proficiency and demonstrated how data can be transformed into actionable information through querying, analysis, and visualization. It serves as both a reflection of current industry trends and a practical showcase of my data analytics skills.
+
+# Test Image
+
+![Test](assets/1_top_paying_jobs.png)
