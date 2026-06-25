@@ -8,7 +8,7 @@ Question: What are the most in-demand skills for data analysts?
 */
 
 SELECT
-    COUNT (skills_dim.skill_id) AS indemand_skills,
+    COUNT (skills_dim.skill_id) AS demand_count,
     skills_dim.skills
 FROM 
     job_postings_fact
@@ -21,6 +21,6 @@ WHERE
 GROUP BY
     skills_dim.skills
 ORDER BY
-    indemand_skills DESC
+    demand_count DESC
 LIMIT
     5
