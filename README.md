@@ -168,6 +168,7 @@ LIMIT
 |57326        |python  |
 |46554        |tableau |
 |39468        |power bi|
+
 *Table of the demand for the top 5 skills in data analyst job postings.*
 
 #### 💡 Insights
@@ -218,6 +219,7 @@ LIMIT
 |vmware     |	147500           |
 |terraform  |	146733.83        |
 |twilio     |	138500           |
+
 *Table of the average salary for the top 10 paying skills for data analysts.*
 
 > **Note:** The SQL query returned the top 25 highest-paying skills. To maintain readability, only the top 10 skills are displayed in the table above.
