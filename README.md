@@ -1,3 +1,4 @@
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 # 🔍 Introduction
 📊 **Exploring the Data Analyst Job Market**
 
@@ -70,7 +71,7 @@ LIMIT
 ```
 #### 📊 Visualization
 
-![Top Paying Roles](assets\1_top_paying_jobs.png)
+![Top Paying Roles](assets/1_top_paying_jobs.png)
 *Bar chart created in Power BI using SQL query results, illustrating the top 10 highest-paying Data Analyst jobs in 2023.*
 
 #### 💡 Insights
