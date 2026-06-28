@@ -122,7 +122,7 @@ ORDER BY
 ```
 #### 📊 Visualization
 
-![Skills for Top Paying Roles](assets/top_paying_job_skills.png)
+![Skills for Top Paying Roles](assets\top_paying_job_skills.png)
 *Bar chart created in Power BI using SQL query results, illustrating the skills for the top 10 highest-paying Data Analyst jobs in 2023.*
 
 #### 💡 Insights
